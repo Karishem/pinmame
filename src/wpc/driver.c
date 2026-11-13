@@ -3408,6 +3408,7 @@ DRIVER(totan,12)        //          06/96 W Tales of the Arabian Nights (1.2 / S
 DRIVER(totan,13)        //          07/96 W Tales of the Arabian Nights (1.3 / S1.0)
 DRIVER(totan,14)        //          10/96 W Tales of the Arabian Nights (1.4 / S1.1)
 DRIVER(totan,15c)       //          04/16 W Tales of the Arabian Nights (1.5C / S1.1)
+DRIVER(totan,16)        //          11/26 W Tales of the Arabian Nights (1.6 MOD, 1 MB / S1.1)
 DRIVER(ss,01)           //WPC-548:  09/96 B Scared Stiff (D0.1R Prototype with sound rev.25)
 DRIVER(ss,01b)          //          09/96 B Scared Stiff (D0.1R Prototype with sound rev.25 Coin Play)
 DRIVER(ss,03)           //          09/96 B Scared Stiff (0.3 Prototype)
